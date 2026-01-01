@@ -72,7 +72,8 @@ Download or view the results directly in the browser
 Installation & running locally:
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/bone-fracture-detection.git
+git clone https: git clone https://github.com/KareemSoltan/Bone-fracture-detection-.git
+
 cd bone-fracture-detection
 
 # 2. Install dependencies
